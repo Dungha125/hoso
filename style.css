@@ -139,6 +139,25 @@ li a
     margin:20px auto 10px;
     border: 5px inset rgb(165,0,255);
 }
+.firstcontent .thayanh
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.firstcontent .input
+{
+    display: flex;
+    margin: auto;
+    color: rebeccapurple;
+    
+}
+.firstcontent #label
+{
+    display: flex;
+    color: rebeccapurple;
+    font-size: large;
+}
 .firstcontent .name
 {
     display: flex;
